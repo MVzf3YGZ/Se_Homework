@@ -9,4 +9,4 @@
 |SZ160110217|王冠雄|wangguanxiong1|wangguanxiong|
 |SZ160110128|周宇飞|cs-zyf|zhouyufei|
 
-[![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com)
+![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)
